@@ -1,6 +1,9 @@
 {
   "name": "@codica/code",
   "version": "1.0.0",
+  "bin": {
+    "brain-games": "./bin/brain-games.js"
+  },
   "type": "module",
   "description": "Iniciando mi primer proyecto en Codica",
   "main": "index.js",
