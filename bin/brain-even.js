@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-import parityCheck from '../src/parityCheck.js';
+import { parityCheck, description } from '../src/games/parityCheck.js';
+import runGame from '../src/index.js';
 
-parityCheck();
+runGame(parityCheck, description);

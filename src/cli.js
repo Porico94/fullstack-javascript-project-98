@@ -4,6 +4,7 @@ const greetUser = () => {
   console.log('¡Bienvenidos a Brain Games!');
   const name = readlineSync.question('Cuál es tu nombre: ');
   console.log(`¡Hola, ${name}! `);
+  return name;
 };
 
 export default greetUser;
