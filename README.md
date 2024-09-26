@@ -9,3 +9,7 @@ Puedes ver un ejemplo de instalación y ejecución del juego en este enlace:
 Puedes ver un ejemplo ejecución del juego en este enlace:
 [Ver en asciinema](https://asciinema.org/a/ZTF3qHTH2jjWB9RmOhEz3Hdmn)
 
+## Demostración del juego brain-gcd
+Puedes ver un ejemplo ejecución del juego en este enlace:
+[Ver en asciinema](https://asciinema.org/a/VAIqYyrFhFgFAtZQAtWavvZ8u)
+
