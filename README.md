@@ -17,5 +17,6 @@ Puedes ver un ejemplo ejecución del juego en este enlace:
 Puedes ver un ejemplo ejecución del juego en este enlace:
 [Ver en asciinema](https://asciinema.org/a/1LpAbHNK3qO5y0BfVWNd2UbIG)
 
-
-
+## Demostración del juego brain-prime
+Puedes ver un ejemplo ejecución del juego en este enlace:
+[Ver en asciinema](https://asciinema.org/a/b52fE0Qi4OLCa5KBSOZbgnNhR)
