@@ -35,7 +35,7 @@ export const mcd = () => {
   }
 
   return {
-    question: `${randomNumber1} ${randomNumber2}`,
+    question: `Pregunta: ${randomNumber1} ${randomNumber2}`,
     correctAnswer: String(max),
   };
 };

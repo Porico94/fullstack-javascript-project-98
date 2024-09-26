@@ -24,7 +24,7 @@ export const calculator = () => {
   }
 
   return {
-    question: `${randomNumber1} ${selectedSign} ${randomNumber2}`,
+    question: `Pregunta: ${randomNumber1} ${selectedSign} ${randomNumber2}`,
     correctAnswer: String(correctAnswer),
   };
 };

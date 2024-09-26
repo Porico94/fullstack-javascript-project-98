@@ -13,3 +13,9 @@ Puedes ver un ejemplo ejecución del juego en este enlace:
 Puedes ver un ejemplo ejecución del juego en este enlace:
 [Ver en asciinema](https://asciinema.org/a/VAIqYyrFhFgFAtZQAtWavvZ8u)
 
+## Demostración del juego brain-progression
+Puedes ver un ejemplo ejecución del juego en este enlace:
+[Ver en asciinema](https://asciinema.org/a/1LpAbHNK3qO5y0BfVWNd2UbIG)
+
+
+
